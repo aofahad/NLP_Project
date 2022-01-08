@@ -44,12 +44,12 @@ The topic model can accomplish the task of clustering and classification of data
 
 ## Authors 
 - [@Aya11salem] (http://github.com/Alya11salem)
-- [@aofahad] (https://github.com/aofahad)
--[@Amoraished] (https://github.com/Amoraished)
+- [@aofahad] (https://github.com/aofahad) 
+- [@Amoraished] (https://github.com/Amoraished)
 - [@Sole3] (https://github.com/Sole3)
 
 
 ##Dataset Resource
 https://www.irishtimes.com
 
-# Data Science 5T Boot Camp BY SDAIA ACADEMY
+# Data Science T5 Boot Camp BY SDAIA ACADEMY
