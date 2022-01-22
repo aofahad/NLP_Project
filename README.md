@@ -1,7 +1,6 @@
 # Natural Language Processing (NLP)
 
-Irish Times Topic Modeling 
-https://www.irishtimes.com
+                                                      Irish Times Topic Modeling
 
 <p align="center" width="100%">
 <img src="https://www.irishtimes.com/polopoly_fs/1.2393653.1444938396!/image/image.jpg_gen/derivatives/box_620_330/image.jpg" width="550" length="100" style="display: block; margin: 0 auto"/>
@@ -27,7 +26,7 @@ We propose an online topic modeling designed as a tool to organize, search, and 
 1. Latent Dirichlet Allocation (LDA).
 2. Latent Semantic Analysis (LSA)
 
-##TOOLS
+## TOOLS
 • Jupyter Notebook
 • Numpy
 • Pandas
@@ -38,6 +37,7 @@ We propose an online topic modeling designed as a tool to organize, search, and 
 • Statsmodel.api
 • Patsy
 • Plotly
+
 ## CONCLUSION
 The topic model can accomplish the task of clustering and classification of data. Furthermore, each topic is interpreted as a probability distribution over words, a topic model can produce a more understandable result and thus may help a data scientist to interpret the finding.
 
@@ -49,7 +49,7 @@ The topic model can accomplish the task of clustering and classification of data
 - [@Sole3] (https://github.com/Sole3)
 
 
-##Dataset Resource
+## Dataset Resource
 https://www.irishtimes.com
 
-# Data Science T5 Boot Camp BY SDAIA ACADEMY
+# Data Science T5 Bootcamp BY SDAIA ACADEMY
