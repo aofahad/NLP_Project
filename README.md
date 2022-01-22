@@ -1,6 +1,4 @@
-# Natural Language Processing (NLP)
-
-                                                      Irish Times Topic Modeling
+# Irish Times Topic Modeling
 
 <p align="center" width="100%">
 <img src="https://www.irishtimes.com/polopoly_fs/1.2393653.1444938396!/image/image.jpg_gen/derivatives/box_620_330/image.jpg" width="550" length="100" style="display: block; margin: 0 auto"/>
